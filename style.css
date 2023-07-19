@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap');
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Merriweather', serif;
+}
+body{
+ 
+  background:linear-gradient(45deg,rgba(160, 131, 245, 0.911),yellow)
+}
+
+.button {
+  padding: 18px;
+  margin: 0 3px;
+  border: 3px solid black;
+  border-radius: 17px;
+  cursor: pointer;
+  opacity: 2.5;
+  background: 20px gainsboro;
+}
+
+.row {
+  margin: 5px 0;
+}
+
+.row input {
+    text-align: center;
+    font-size:22px;
+    font-style: bold;
+    margin: 0;
+    padding:12px 0px;
+    border: 3px solid black;
+    background-color: rgb(212, 248, 196);
+    border-radius: 20px
+
+}

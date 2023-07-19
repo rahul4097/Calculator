@@ -1,0 +1,27 @@
+.text-center {
+    text-align: center;
+    text-decoration:underline ;
+    text-shadow: 3cqmax;
+  }
+  
+  .bg-red {
+    background: rgb(43, 43, 34);
+  }
+  
+  .mx-auto {
+    margin: auto;
+  }
+  .flex{
+    display: flex
+  }
+  .flex-col{
+    flex-direction:column
+  }
+  .item-center{
+    align-items: center;
+  }
+  .text-right{
+    text-align: right;
+    text-decoration: none;
+    text-shadow: 3cap;
+  }
